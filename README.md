@@ -10,5 +10,6 @@ Abstract
 About 
   
   The purpose of this study is to estimate the potential spillover benefits quantified as increased catch per unit effort, or CPUE, caused by the expansion of the world's largest no-take marine reserve. This project leverages two confidential data sets administered by the National Oceanic Atmospheric Administration (NOAA). The first is the observer data which is reported by 3rd party observers onboard commercial longline vessels. The second is the logbook data which is self-reported by fishing captains. Due to the confidentiality agreement, neither data set is made publically available. However, summary data aggregated by a 1x1 and 5x5 degree grid can be found https://www.wcpfc.int/wcpfc-public-domain-aggregated-catcheffort-data-download-page 
-This repo is organized as an R program. Each script will execute one task needed for the final publication. Each script is created with the flexibility to input either the observer data or the logbook data so execute each task. 
+  
+This repo is organized as an R program. Each script is created with the flexibility to input either the observer data or the logbook data so each task needed for the final publication can be executed. This code produces 65+ figures and 100+ tables by looping through 4 econometic model specifications and two input data sets on fishing activity. Parallel processing is leveraged to reduce computational time. 
 
