@@ -1,0 +1,26 @@
+% latex table generated in R 4.1.1 by xtable 1.8-4 package
+% Thu Feb 10 19:31:07 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{lllllll}
+  \hline
+  & Expansion Area & 0-100NM & 0-200NM & 0-300NM & 0-600NM & Historical Fishing Grounds \\ 
+  \hline
+Participation:  &   &                 &                 &                   &                   &                   \\ 
+  Number of Vessels & 19 (10.7) &      73.7 (5.9) &     105.2 (6.5) &         115.8 (8) &         115.8 (8) &       125.5 (8.4) \\ 
+  Effort:  &   &                 &                 &                   &                   &                   \\ 
+  Number of Sets & 138.8 (87.1) &   700.9 (154.8) & 1,824.7 (231.8) &   2,638.1 (348.8) &   2,638.1 (348.8) &   3,883.2 (344.7) \\ 
+  Number of Hooks (1,000) & 332.4 (200.3) & 1,751.1 (427.4) & 4,523.6 (798.4) & 6,580.5 (1,252.4) & 6,580.5 (1,252.4) & 9,820.6 (1,473.8) \\ 
+  Soak Time (Hours) & 4.3 (1.5) &       4.2 (1.4) &       4.2 (1.4) &         4.2 (1.4) &         4.2 (1.4) &         4.3 (1.4) \\ 
+  Gear:  &   &                 &                 &                   &                   &                   \\ 
+  Number of Hooks per Float & 24.4 (2.7) &        25 (2.5) &      25.1 (2.5) &          25 (2.4) &          25 (2.4) &        24.9 (2.4) \\ 
+  Float Line Diam & 6.2 (0.4) &       6.2 (0.4) &       6.2 (0.5) &         6.2 (0.5) &         6.2 (0.5) &         6.2 (0.5) \\ 
+  Bait Type (\%) &   &                 &                 &                   &                   &                   \\ 
+  Saury (sanma) & 97.3 &            96.9 &            96.5 &              96.3 &              96.3 &              95.3 \\ 
+  Mixed & 0.9 &             2.1 &             2.1 &               2.3 &               2.3 &               2.9 \\ 
+  Mackerel (saba) & 1.6 &             0.7 &             0.7 &               0.8 &               0.8 &               0.7 \\ 
+  Sardine & 0.2 &             0.3 &             0.6 &               0.5 &               0.5 &               0.9 \\ 
+  Other & 0 &               0 &               0 &                 0 &                 0 &               0.2 \\ 
+   \hline
+\end{tabular}
+\end{table}
